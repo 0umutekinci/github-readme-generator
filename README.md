@@ -17,8 +17,6 @@
 
 A customizable **GitHub Profile README Generator & Editor**. Designed to help developers create profile READMEs with interactive inputs, section reordering, and animated widgets.
 
-Developed and maintained by [@0umutekinci](https://github.com/0umutekinci).
-
 ## Features
 
 - **4 Interface Themes:** Switch between **Dark Mode (Space)**, **Cyberpunk (Neon)**, **Light Mode**, and **Emerald (Nature)**.
