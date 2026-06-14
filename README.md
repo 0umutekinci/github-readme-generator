@@ -58,15 +58,6 @@ npm run dev
 
 Open your browser and navigate to `http://localhost:5173/` to view the app.
 
-### 4. Build for Production
-To build the application for deployment:
-```bash
-npm run build
-```
-
-## Creator
-
-Created by **Umut Ekinci** - [@0umutekinci](https://github.com/0umutekinci).
 
 ## License
 
